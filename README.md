@@ -10,7 +10,7 @@ Hi I'm Ramees, a passionate cyber security enthusiast, developer and a student.
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=7h3cyb3rm0nk&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7h3cyb3rm0nk&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=7h3cyb3rm0nk&theme=gruvbox&hide_border=false&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=7h3cyb3rm0nk&theme=gruvbox&hide_border=false&hide_progress=false)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=7h3cyb3rm0nk&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
