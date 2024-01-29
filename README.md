@@ -1,5 +1,4 @@
-# 💫About Me :
-### Hi I'm Ramees, a passionate cyber security enthusiast, developer and a student.
+### just a Tech guy who likes to learn new things :)
 
 
 ## 🌐Socials
