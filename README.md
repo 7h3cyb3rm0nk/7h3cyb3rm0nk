@@ -12,7 +12,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=7h3cyb3rm0nk&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7h3cyb3rm0nk&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=7h3cyb3rm0nk&theme=gruvbox&hide_border=false&hide_progress=false&exclude_repo=res,qrcodesite,cs-puller,exploria,mulearn-bootstrap,WebCon-2023,theboys,docs,book-dl,dslab-cpp)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=7h3cyb3rm0nk&theme=gruvbox&hide_border=false&hide_progress=false&exclude_repo=res,qrcodesite,cs-puller,exploria,mulearn-bootstrap,WebCon-2023,theboys,docs,book-dl)
 
 
 ### ✍️Random Dev Quote
